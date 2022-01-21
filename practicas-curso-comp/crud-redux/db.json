@@ -1,0 +1,184 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Jugo de Zanahoria",
+      "precio": "31111"
+    },
+    {
+      "id": 2,
+      "nombre": "Jugo de Naranja",
+      "precio": "1"
+    },
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "300",
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "200",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "nombre": "Rib Eye 1kg",
+      "precio": 800,
+      "id": 6
+    },
+    {
+      "nombre": "lechuga ",
+      "precio": 200,
+      "id": 7
+    },
+    {
+      "nombre": "Coca",
+      "precio": 2,
+      "id": 8
+    },
+    {
+      "nombre": "Coca",
+      "precio": 200,
+      "id": 9
+    },
+    {
+      "nombre": "agua",
+      "precio": 20,
+      "id": 10
+    },
+    {
+      "nombre": "agua",
+      "precio": 200,
+      "id": 11
+    },
+    {
+      "nombre": "agua",
+      "precio": 1,
+      "id": 12
+    },
+    {
+      "nombre": "alfajores",
+      "precio": 300,
+      "id": 13
+    },
+    {
+      "nombre": "cerveza",
+      "precio": 290,
+      "id": 14
+    },
+    {
+      "nombre": "cerveza",
+      "precio": 290,
+      "id": 15
+    },
+    {
+      "nombre": "limones",
+      "precio": 2,
+      "id": 16
+    },
+    {
+      "nombre": "limones",
+      "precio": 2,
+      "id": 17
+    },
+    {
+      "nombre": "limones",
+      "precio": 2,
+      "id": 18
+    },
+    {
+      "nombre": "limones",
+      "precio": 2,
+      "id": 19
+    },
+    {
+      "nombre": "limones",
+      "precio": 2,
+      "id": 20
+    },
+    {
+      "nombre": "limones",
+      "precio": 2,
+      "id": 21
+    },
+    {
+      "nombre": "pan",
+      "precio": 100,
+      "id": 22
+    },
+    {
+      "nombre": "pan",
+      "precio": 100,
+      "id": 23
+    },
+    {
+      "nombre": "alfajores",
+      "precio": 1,
+      "id": 24
+    },
+    {
+      "nombre": "alfajores",
+      "precio": 1,
+      "id": 25
+    },
+    {
+      "nombre": "Coca",
+      "precio": 1,
+      "id": 26
+    },
+    {
+      "nombre": "Coca",
+      "precio": 1,
+      "id": 27
+    },
+    {
+      "nombre": "Coca",
+      "precio": 1,
+      "id": 28
+    },
+    {
+      "nombre": "Coca",
+      "precio": 1,
+      "id": 29
+    },
+    {
+      "nombre": "alfajores",
+      "precio": 1,
+      "id": 30
+    },
+    {
+      "nombre": "harina",
+      "precio": 2,
+      "id": 31
+    },
+    {
+      "nombre": "harina",
+      "precio": 2,
+      "id": 32
+    },
+    {
+      "nombre": "harina",
+      "precio": 2,
+      "id": 33
+    },
+    {
+      "nombre": "Coca",
+      "precio": 3,
+      "id": 34
+    },
+    {
+      "nombre": "Coca",
+      "precio": 9,
+      "id": 35
+    },
+    {
+      "nombre": "a",
+      "precio": 1,
+      "id": 36
+    }
+  ]
+}
